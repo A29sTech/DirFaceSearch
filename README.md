@@ -3,12 +3,11 @@ Search Face in Local Dir. Or Recognize Face To Dir.
 
 
 ## Dependency :
-+ face_recognition
-+ Numpy
-
-## pip install face_recognition
-## pip install numpy
++ face_recognition  : pip install face_recognition
++ Numpy             : pip install numpy
 
 
 
-### Easy To Api.
+
+
+### Easy To Use Api.
